@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steffa85
+- 👋 Hi, I’m @steffacode
 
 - 🌱 I’m currently learning Python 
 
